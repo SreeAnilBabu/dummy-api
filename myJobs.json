@@ -1,0 +1,50 @@
+[
+    {
+        "ad_id": 12,
+        "post_id":23,
+        "org_id":11,
+        "org_name": "Organization Name",
+        "ad_img": "https://raw.githubusercontent.com/guardian090/dummy-api/main/imgs/flower.jpg",
+        "post_name": "Post Name",
+        "edu": "Edu Qualification",
+        "exp": "Experience",
+        "location": "Place of Posting",
+        "sal": "Salary"
+    },
+    {
+        "ad_id": 14,
+        "post_id":24,
+        "org_id":16,
+        "org_name": "Organization Name 2",
+        "ad_img": "https://raw.githubusercontent.com/guardian090/dummy-api/main/imgs/33_3.png",
+        "post_name": "Post Name 2",
+        "edu": "Edu Qualification 2",
+        "exp": "Experience 2",
+        "location": "Place of Posting 2",
+        "sal": "Salary 2"
+    },
+    {
+        "ad_id": 16,
+        "post_id":29,
+        "org_id":27,
+        "org_name": "Organization Name 3",
+        "ad_img": "https://raw.githubusercontent.com/guardian090/dummy-api/main/imgs/flower.jpg",
+        "post_name": "Post Name 3",
+        "edu": "Edu Qualification 3",
+        "exp": "Experience 3",
+        "location": "Place of Posting 3",
+        "sal": "Salary 3"
+    },
+    {
+        "ad_id": 18,
+        "post_id":45,
+        "org_id":39,
+        "org_name": "Organization Name 4",
+        "ad_img": "https://raw.githubusercontent.com/guardian090/dummy-api/main/imgs/33_3.png",
+        "post_name": "Post Name 4",
+        "edu": "Edu Qualification 4",
+        "exp": "Experience 4",
+        "location": "Place of Posting 4",
+        "sal": "Salary 4"
+    }
+]
