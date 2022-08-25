@@ -1,5 +1,13 @@
 [
 {        
+        "course": "MCA",
+        "major": "Computer Science",
+        "university": "Amrita University",
+        "joining": "2021",
+        "passout": "2023",        
+        "marks": "97"
+},
+{        
         "course": "BCA",
         "major": "Computer Science",
         "university": "Kerala University",
