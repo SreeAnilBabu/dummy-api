@@ -3,48 +3,48 @@
         "ad_id": 12,
         "post_id":23,
         "org_id":11,
-        "org_name": "Organization Name",
+        "org_name": "TCS",
         "ad_img": "https://raw.githubusercontent.com/guardian090/dummy-api/main/imgs/flower.jpg",
-        "post_desc": "Post Name",
-        "edu": "Edu Qualification",
-        "exp": "Experience",
-        "location": "Place of Posting",
-        "sal": "Salary"
+        "post_desc": "Software Dveloper",
+        "edu": "MCA",
+        "exp": "2",
+        "location": "Kochi",
+        "sal": "35000"
     },
     {
         "ad_id": 14,
         "post_id":24,
         "org_id":16,
-        "org_name": "Organization Name 2",
+        "org_name": "Maple",
         "ad_img": "https://raw.githubusercontent.com/guardian090/dummy-api/main/imgs/33_3.png",
-        "post_desc": "Post Name 2",
-        "edu": "Edu Qualification 2",
-        "exp": "Experience 2",
-        "location": "Place of Posting 2",
-        "sal": "Salary 2"
+        "post_desc": "Node developer",
+        "edu": "BCA",
+        "exp": "3",
+        "location": "Kollam",
+        "sal": "25000"
     },
     {
         "ad_id": 16,
         "post_id":29,
         "org_id":27,
-        "org_name": "Organization Name 3",
+        "org_name": "Vipro",
         "ad_img": "https://raw.githubusercontent.com/guardian090/dummy-api/main/imgs/flower.jpg",
-        "post_desc": "Post Name 3",
-        "edu": "Edu Qualification 3",
-        "exp": "Experience 3",
-        "location": "Place of Posting 3",
-        "sal": "Salary 3"
+        "post_desc": "UI Designer",
+        "edu": "MCA",
+        "exp": "2",
+        "location": "Bangalore",
+        "sal": "50000"
     },
     {
         "ad_id": 18,
         "post_id":45,
         "org_id":39,
-        "org_name": "Organization Name 4",
+        "org_name": "TCS",
         "ad_img": "https://raw.githubusercontent.com/guardian090/dummy-api/main/imgs/33_3.png",
-        "post_desc": "Post Name 4",
-        "edu": "Edu Qualification 4",
-        "exp": "Experience 4",
-        "location": "Place of Posting 4",
-        "sal": "Salary 4"
+        "post_desc": "Executive Marketing",
+        "edu": "MBA",
+        "exp": "3",
+        "location": "Kochi",
+        "sal": "45000"
     }
 ]
