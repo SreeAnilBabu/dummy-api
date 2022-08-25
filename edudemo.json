@@ -7,4 +7,12 @@
         "passout": "2021",        
         "marks": "78"
 }
+{        
+        "course": "Plus Two",
+        "major": "Science",
+        "university": "Kerala Board",
+        "joining": "2015",
+        "passout": "2017",        
+        "marks": "89"
+}
 ]
